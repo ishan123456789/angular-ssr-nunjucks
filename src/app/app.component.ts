@@ -4,7 +4,7 @@ import {Component} from '@angular/core';
   selector: 'app-root',
   template: `
   <div class="app-container">
-    <h1>Angular Universal Demo utilizing Angular & Angular CLI</h1>
+    <h1>Site a book testing image upload</h1>
     <nav class="nav-links">
       <a routerLink="/">Home</a>
       <a routerLink="/lazy">Lazy-loaded Route</a>

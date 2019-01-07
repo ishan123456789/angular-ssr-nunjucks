@@ -3,7 +3,8 @@ import {Component} from '@angular/core';
 @Component({
   selector: 'app-home',
   template: `
-    <h3>{{ message }}</h3>
+    <h3>Testing ssr</h3>
+    <input type="file" name="Testing ssr" />
     <img [src]="image">
   `
 })
